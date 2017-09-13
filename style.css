@@ -1,0 +1,95 @@
+body
+{
+    background: url(img/footer_lodyas.png);
+    font-family: 'Sintony', sans-serif;
+}
+#container 
+{
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: i
+}
+#top
+{ 
+    width: 1300px;
+    background-color: #009688;
+    height: 150px;
+    color: white;
+    
+}
+#foto
+{
+    width: 130px;
+    height: 130px;
+    padding: 10px;
+    border-right: 1px dotted white;
+    float: left;
+}
+#welcome
+{
+    text-align: left;
+    width: 1129px;
+    height: 130px;
+    padding: 10px;
+    float: left;
+    font-size: 32px;    
+}
+#menu
+{
+    width: 1280px;
+    height: 50px;
+    background-color: darkgrey;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+.choice
+{
+    float: left;
+    height:30px;
+    font-size: 22px;
+    text-align: center;
+    padding: 10px;
+    
+}
+.choice:hover
+{
+    background-color: #ff7043;
+    color: white;
+    cursor: pointer;
+}
+#main 
+{
+    background-color: darkgray;
+    width: 1300px;
+    height: 700px;
+    margin-top: 20px;
+}
+#nav
+{
+    width: 200px;
+    height: 640px;
+    padding: 30px;
+    //margin: 30px;
+    background-color: #e0e0e0;
+    text-align: center;
+}
+#ubuntu
+{
+    width: 180px;
+    height:30px;   
+    background-color:#90a4ae; 
+    margin:10px;
+}
+#ubuntu:hover
+{
+    background-color: #E95420;
+    cursor:pointer;
+}
+#ubuntu-logo
+{
+    width:30px;
+    height:30px;
+    
+}
